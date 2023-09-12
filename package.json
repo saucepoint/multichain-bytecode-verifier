@@ -9,6 +9,8 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
+    "commander": "^11.0.0",
+    "markdown-table": "^3.0.3",
     "viem": "^1.10.9"
   }
 }
